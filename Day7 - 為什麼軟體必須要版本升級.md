@@ -1,3 +1,4 @@
+[![hackmd-github-sync-badge](https://hackmd.io/gH1TUAuATfSuRTSBOfCS_A/badge)](https://hackmd.io/gH1TUAuATfSuRTSBOfCS_A)
 ###### tags: `2023鐵人賽` `qiita` 
 # [2023 15th鐵人賽] Day7 - 為什麼軟體必須要版本升級
 
@@ -5,7 +6,7 @@
 
 有時在一些官網下載軟體時（例如 [node.js](https://nodejs.org/en) 或 [Ubuntu](https://ubuntu.com/download/desktop) ），會發現官方有提供兩種版本，分別是「LTS」和「Current」，其中 LTS 代表 Long Term Support（長期支援），穩定版本確保程式的安全性與可靠性，避免更新可能造成的風險。
 
-軟體除了新增需求以外，是否就不需要再進行版本更新了？這篇文章將會介紹為何軟體需要版本更新，以及更新頻率可能帶來不同的結果。
+軟體除了新增需求、修復 BUG 以外，是否就不需要再進行版本更新了？這篇文章將會介紹為何軟體需要版本更新，以及更新頻率可能帶來不同的結果。
 
 那麼，以下正文開始！
 
@@ -52,7 +53,7 @@ IT 行業是一個流動性較高的行業，但以 2 年頻率為例，對許�
 像這樣**有機會大幅提高工作時數**的情況，是版本升級讓人感到麻煩的原因。
 
 ![](https://imgur.com/boLEH1c.png)
-> 版本升級導致業務崩壞
+> 版本升級導致業務中斷
 
 ### 版本升級頻率低將導致更新失敗
 
