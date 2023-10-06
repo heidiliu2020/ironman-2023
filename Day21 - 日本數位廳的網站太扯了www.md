@@ -78,9 +78,13 @@
 
 值得關注的技術棧採用 Next.js、S3、CloudFront。在眾多使用 jQuery 或 WordPress 製作的網站當中，使用 Next.js 技術開發的政府網站實在令人驚訝。
 
-![](https://hackmd.io/_uploads/BJpqAw2gT.png =400x)
+<!-- ![](https://hackmd.io/_uploads/BJpqAw2gT.png =400x) -->
 
-![](https://hackmd.io/_uploads/rkz2Av2e6.png =400x)
+<img src="https://hackmd.io/_uploads/BJpqAw2gT.png " width="400">
+
+<!-- ![](https://hackmd.io/_uploads/rkz2Av2e6.png =400x) -->
+
+<img src="https://hackmd.io/_uploads/rkz2Av2e6.png" width="400">
 
 > [推文連結](https://twitter.com/chibicode/status/1629307668568633344)
 
@@ -92,7 +96,9 @@
 
 ## 最後
 
-![](https://hackmd.io/_uploads/S191LR2e6.png =400x)
+<!-- ![](https://hackmd.io/_uploads/S191LR2e6.png =400x) -->
+
+<img src="https://hackmd.io/_uploads/S191LR2e6.png" width="400">
 
 > [推文連結](https://twitter.com/333mimina/status/1667276026064392195)
 
