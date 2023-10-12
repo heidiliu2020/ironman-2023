@@ -1,5 +1,6 @@
+[![hackmd-github-sync-badge](https://hackmd.io/x-6s2VH3Q5mACkGpPQm4ww/badge)](https://hackmd.io/x-6s2VH3Q5mACkGpPQm4ww)
 ###### tags: `2023鐵人賽` `qiita` `提問方法`
-# [2023 15th鐵人賽] Day27 - [常有的事] 克服「卡住時，請立刻提問」的方法
+# [2023 15th鐵人賽] Day27 - [常有的事] 克服「遇到問題卡住時，請立刻提問」的方法
 
 > 原文連結：[[あるある]「詰まったら、すぐに質問してください」の克服法 - Qiita](https://qiita.com/dev-tatsuya/items/bca386bc47322f22072a)
 
